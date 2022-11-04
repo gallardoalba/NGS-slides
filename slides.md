@@ -3,9 +3,11 @@
     
 Cristobal Gallardo Alba
 
-
 ---
 
+<img src="img/no_phone.jpg" alt="drawing" width="600"/>
+
+---
 
 ## Table of contents
 
@@ -69,7 +71,7 @@ Cristobal Gallardo Alba
 
 #### **TGS technologies: PacBio**
 
-<img src="/img/pacbio.png" alt="drawing" width="800"/>
+<img src="img/pacbio.png" alt="drawing" width="800"/>
 
 ---
 
@@ -79,22 +81,22 @@ Cristobal Gallardo Alba
 
 ### **Base calling**
 
-<img src="/img/base_calling_01.png" alt="drawing" width="800"/>
+<img src="img/base_calling_01.png" alt="drawing" width="800"/>
 
 ------
 
 ### **Base calling**
 
-<img src="/img/base_calling_02.png" alt="drawing" width="1000"/>
+<img src="img/base_calling_02.png" alt="drawing" width="1000"/>
 
 ------
 
 ### **Base calling**
 
-<img src="/img/nanopore_basecalling.jpg" alt="drawing" width="1000"/>
+<img src="img/nanopore_basecalling.jpg" alt="drawing" width="1000"/>
 
 ---
 
 ### **File formats: FASTQ**
 
-<img src="/img/FASTQ_format.png" alt="drawing"/>
+<img src="img/FASTQ_format.png" alt="drawing"/>
