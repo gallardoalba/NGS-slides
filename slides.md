@@ -52,13 +52,18 @@ Cristobal Gallardo Alba
 
 #### **NGS technology: Illumina**
 
-<img src="/img/illumina_sequencing.png" alt="drawing" width="600"/>
+<img src="https://www.intechopen.com/media/chapter/49419/media/image2.png" alt="drawing" width="600"/>
+
+<p style="font-size:14px;">Source: https://www.intechopen.com/</p>    
+
 
 ---
 
 #### **TGS technology: Oxford Nanopore**
 
-<img src="/img/oxford_nanopore.jpg" alt="drawing" width="900"/>
+<img src="https://www.ukaachen.de/fileadmin/files/institute/humangenetik/_processed_/b/1/csm_nanopore_sequenzierung_c643920a66.jpg" alt="drawing" width="900"/>
+
+<p style="font-size:14px;">Source: https://www.ukaachen.de</p>    
 
 ------
 
