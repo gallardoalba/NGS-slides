@@ -150,3 +150,129 @@ With this technology, thousands of places throughout the genome are sequenced at
 ### File formats: FASTQ
 
 <img src="img/FASTQ_format.png" alt="drawing"/>
+
+------
+
+<span class="menu-title" style="display: none">File formats: Phred score</span>
+
+### File formats: Phred quality score
+
+<pre><code data-trim data-noescape >
+@ERR4760040.1 MN00415:74:FREIBURG:1
+TATAGCTCGCAAATCGTATCAGCAGATGTAATCAGGTAATGAAGTAGTTCTAGTTCTAGTTCTA
++
+&%%)'/5516:;-,*&,)+1.-3(+-)%&+623196366-+-')*029==*029==*029==*0
+</code></pre>
+
+<div style="text-align: left">
+
+Phred quality score is used to indicate the measure of base quality in DNA sequencing.<br>
+
+</div>
+
+$$
+Q = -10\log_{10}p \rightarrow p = 10^{\frac{-Q}{10}}
+$$
+
+<br><small>*p: error probability associated with any given basecall*</small><br>
+<small>*Q: quality score, encoded in ASCII characters*</small>
+
+------
+
+### File formats: Phred quality score
+
+<img src="img/per_base_quality.png" alt="drawing"  width="600"/>
+
+---
+
+<span class="menu-title" style="display: none">Applications of sequencing technologies</span>
+
+## Applications of sequencing technologies
+
+------
+
+<span class="menu-title" style="display: none">Genome assembly</span>
+
+### Genome assembly
+    
+<img src="img/genome_assembly.png" alt="drawing" width="1000"/>
+
+------
+
+<span class="menu-title" style="display: none">Genome assembly</span>
+
+### Genome assembly
+#### VGP assembly workflow
+    
+<img src="img/VGP_workflow.png" alt="drawing" width="1000"/>
+
+------
+
+<span class="menu-title" style="display: none">Genome assembly</span>
+
+### Genome assembly
+#### VGP assembly workflow in Galaxy
+
+<div style="text-align:left; font-size:28px">
+
+- The VGP-Galaxy project has assembled 26 genomes in the last 6 months
+- Largest: 4Gbp *Gastrophryne carolinensis*
+
+</div>
+
+<img src="img/gastrophryne.png" alt="drawing" width="500"/>
+
+------
+
+<span class="menu-title" style="display: none">Transcriptomics: expression analysis</span>
+
+### Transcriptomics: RNA-seq
+
+<img src="img/transcription.jpg" alt="drawing" width="1000"/>
+
+------
+
+<span class="menu-title" style="display: none">Epigenetics</span>
+
+### Epigenetics
+
+<a href="https://imgflip.com/i/6zn61x" ><img src="https://i.imgflip.com/6zn61x.jpg"  width="600" title="made at imgflip.com"/></a>
+
+------
+
+<span class="menu-title" style="display: none">DNA/RNA methylation</span>
+
+### Epigenetics
+#### Heritable marks: DNA/RNA methylation
+
+<img src="img/methylation.jpg" alt="drawing" width="1000"/>
+
+<small>DNA/RNA methylation **regulates gene expression** by recruiting proteins involved in gene repression or by inhibiting the binding of transcription factor(s) to DNA.</small>
+
+------
+
+### Epigenetics
+#### Heritable marks: DNA/RNA methylation
+
+<img src="img/paper_methylation.png" alt="drawing"/>
+
+------
+
+<span class="menu-title" style="display: none">Cancer molecular markers</span>
+
+### Epigenetics
+#### Cancer molecular markers
+
+------
+
+<span class="menu-title" style="display: none">Neurodegenerative disorders</span>
+
+### Epigenetics
+#### Neurodegenerative disorders
+
+------
+
+<span class="menu-title" style="display: none">Abuse substance</span>
+
+### Epigenetics
+#### Molecuar basis of substance abuse
