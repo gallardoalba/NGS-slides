@@ -8,7 +8,7 @@
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/white.css">
+		<link rel="stylesheet" href="dist/theme/simple.css">
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css">
@@ -21,7 +21,7 @@
                     data-separator-vertical="^\r?\n------\r?\n$"
                     data-separator-notes="^Note:"
                     data-charset="iso-8859-15"
-                    data-transition="slide">
+		    data-transition="fade"
                 </section>
 			</div>
 		</div>
@@ -30,15 +30,31 @@
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/menu/menu.js"></script>
 		<script>
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
 			Reveal.initialize({
-				hash: true,
+			       hash: true,
+			       dependencies: [
+				   { src: 'plugin/mouse-pointer/mouse-pointer.js', async: true }, 
+			       ],
+			       // Learn about plugins: https://revealjs.com/plugins/
+			       plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ],
+			       slideNumber: true,
+			       slideNumber: 'c/t',
+			       //showNotes: true,
+			       //showNotes: "separate-page"
+			       controls: false,
+			       //controlsLayout: 'edges',
+			    transitionSpeed: 'slow',
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+  			       menu: {
+			           titleSelector: 'h1',
+				   hideMissingTitles: true,
+				   width: 'third'
+			       }
 			});
 		</script>
 	</body>

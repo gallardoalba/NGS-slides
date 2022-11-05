@@ -144,7 +144,7 @@ export default {
 	pause: true,
 
 	// Flags if speaker notes should be visible to all viewers
-	showNotes: false,
+	showNotes: true,
 
 	// Flags if slides with data-visibility="hidden" should be kep visible
 	showHiddenSlides: false,
@@ -229,7 +229,7 @@ export default {
 	focusBodyOnPageVisibilityChange: true,
 
 	// Transition style
-	transition: 'slide', // none/fade/slide/convex/concave/zoom
+	transition: 'zoom', // none/fade/slide/convex/concave/zoom
 
 	// Transition speed
 	transitionSpeed: 'default', // default/fast/slow
