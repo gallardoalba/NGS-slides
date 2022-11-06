@@ -207,16 +207,12 @@ $$
 
 ------
 
-<span class="menu-title" style="display: none">Genome assembly</span>
-
 ### Genome assembly
 #### VGP assembly workflow
     
 <img src="img/VGP_workflow.png" alt="drawing" width="1000"/>
 
 ------
-
-<span class="menu-title" style="display: none">Genome assembly</span>
 
 ### Genome assembly
 #### VGP assembly workflow in Galaxy
@@ -242,16 +238,12 @@ differential_expression.png
 
 ------
 
-<span class="menu-title" style="display: none">Transcriptomics: expression analysis</span>
-
 ### Transcriptomics: RNA-seq
 #### Differential expression analysis pipeline
 
 <img src="img/differential_expression.png" alt="drawing" width="500"/>
 
 ------
-
-<span class="menu-title" style="display: none">Transcriptomics: expression analysis</span>
 
 ### Transcriptomics: RNA-seq
 #### Differential expression analysis
@@ -295,8 +287,6 @@ differential_expression.png
 
 ------
 
-<span class="menu-title" style="display: none">Cancer molecular markers</span>
-
 ### Epigenetics
 #### Cancer molecular markers
 
@@ -304,7 +294,7 @@ differential_expression.png
 
 ------
 
-<span class="menu-title" style="display: none">Cancer molecular markers</span>
+<span class="menu-title" style="display: none">Plant resistance to extreme conditions</span>
 
 ### Epigenetics
 #### Plant resistance to extreme conditions
@@ -314,8 +304,6 @@ differential_expression.png
 <small><small>Plant stress memory and their capacity to influence plant tolerance to a changing environment and crop productivity is considered to play an important role in the adaptation and evolution of plants.</small></small>
 
 ------
-
-<span class="menu-title" style="display: none">Cancer molecular markers</span>
 
 ### Epigenetics
 #### Plant resistance to extreme conditions
