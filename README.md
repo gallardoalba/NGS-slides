@@ -7,5 +7,5 @@
 Keyboard shortcuts
 - CAPSLOCK: laser pointer
 - SPACE: move betwee slides
-- O: Slides overview
-- S: Speaker notes
+- Key O: Slides overview
+- Key S: Speaker notes
