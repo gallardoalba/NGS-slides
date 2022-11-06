@@ -103,14 +103,12 @@ With this technology, thousands of places throughout the genome are sequenced at
 ### NGS technology: Illumina
 #### Base calling
 
-<img src="img/base_calling_01.png" alt="drawing" width="800"/>
+<div class="r-stack">
+  <img class="fragment fade-out" data-fragment-index="0" src="img/base_calling_01.png" alt="drawing" width="800"/>
+  <img class="fragment current-visible" data-fragment-index="0" src="img/base_calling_02.png" alt="drawing" width="1000"/>
+</div>
 
-------
 
-### NGS technology: Illumina
-#### Base calling
-
-<img src="img/base_calling_02.png" alt="drawing" width="1000"/>
 
 ------
 
