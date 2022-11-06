@@ -2,6 +2,8 @@
 ### **Concepts in sequencing data analysis**
 <sub>Cristobal Gallardo Alba</sub>
 
+---
+
 Keyboard shortcuts
 - CAPSLOCK: laser pointer
 - SPACE: move betwee slides
