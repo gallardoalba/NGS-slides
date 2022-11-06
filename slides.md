@@ -187,7 +187,7 @@ $$
 
 <span class="menu-title" style="display: none">Information storage: SAM/BAM datatype</span>
 
-### Information storage: SAM/BAM datatype
+### Information storage: SAM/BAM datatypes
 
 <br>
 
