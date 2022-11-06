@@ -27,8 +27,6 @@
 
 ------
 
-<span class="menu-title" style="display: none">Custom Menu Title</span>
-
 <div style="text-align: left">
 
 ## Table of contents
