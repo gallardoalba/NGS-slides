@@ -7,5 +7,5 @@ Cristobal Gallardo Alba
 Keyboard shortcuts
 - CAPSLOCK: laser pointer
 - SPACE: move betwee slides
-- Key O: Slides overview
-- Key S: Speaker notes
+- Key O: slides overview
+- Key S: speaker notes
