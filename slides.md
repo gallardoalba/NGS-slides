@@ -147,7 +147,7 @@ With this technology, thousands of places throughout the genome are sequenced at
 
 <span class="menu-title" style="display: none">File formats: FASTQ</span>
 
-### File formats: FASTQ
+### Information storage: FASTQ datatype
 
 <img src="img/FASTQ_format.png" alt="drawing"/>
 
@@ -155,7 +155,7 @@ With this technology, thousands of places throughout the genome are sequenced at
 
 <span class="menu-title" style="display: none">File formats: Phred score</span>
 
-### File formats: Phred quality score
+### Information storage: Phred quality score
 
 <pre><code data-trim data-noescape >
 @ERR4760040.1 MN00415:74:FREIBURG:1
@@ -166,7 +166,7 @@ TATAGCTCGCAAATCGTATCAGCAGATGTAATCAGGTAATGAAGTAGTTCTAGTTCTAGTTCTA
 
 <div style="text-align: left">
 
-Phred quality score is used to indicate the measure of base quality in DNA sequencing.<br>
+Phred quality score is used to indicate the measure of base quality in DNA/RNA sequencing.<br>
 
 </div>
 
@@ -179,9 +179,19 @@ $$
 
 ------
 
-### File formats: Phred quality score
+### Information storage: Phred quality score
 
 <img src="img/per_base_quality.png" alt="drawing"  width="600"/>
+
+------
+
+<span class="menu-title" style="display: none">Information storage: SAM/BAM datatype</span>
+
+### Information storage: SAM/BAM datatypes
+
+<br>
+
+<img src="img/sam.png" alt="drawing"/>
 
 ---
 
@@ -230,13 +240,33 @@ $$
 
 <img src="img/transcription.jpg" alt="drawing" width="1000"/>
 
+differential_expression.png
+
+------
+
+<span class="menu-title" style="display: none">Transcriptomics: expression analysis</span>
+
+### Transcriptomics: RNA-seq
+#### Differential expression analysis pipeline
+
+<img src="img/differential_expression.png" alt="drawing" width="500"/>
+
+------
+
+<span class="menu-title" style="display: none">Transcriptomics: expression analysis</span>
+
+### Transcriptomics: RNA-seq
+#### Differential expression analysis
+
+<img src="img/DE_plots.png" alt="drawing" width="1000"/>
+
 ------
 
 <span class="menu-title" style="display: none">Epigenetics</span>
 
 ### Epigenetics
 
-<a href="https://imgflip.com/i/6zn61x" ><img src="https://i.imgflip.com/6zn61x.jpg"  width="600" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/i/6zn61x" ><img src="https://i.imgflip.com/6zn61x.jpg"  width="600"/></a>
 
 ------
 
@@ -263,6 +293,39 @@ $$
 ### Epigenetics
 #### Cancer molecular markers
 
+<img src="img/cancer_methylation.png" alt="drawing" width="700"/>
+
+------
+
+<span class="menu-title" style="display: none">Cancer molecular markers</span>
+
+### Epigenetics
+#### Cancer molecular markers
+
+<img src="img/cancer_genes.png" alt="drawing" width="900"/>
+
+------
+
+<span class="menu-title" style="display: none">Cancer molecular markers</span>
+
+### Epigenetics
+#### Plant resistance to extreme conditions
+
+<img src="img/plants_methylation.png" alt="drawing" width="700"/>
+
+<small><small>Plant stress memory and their capacity to influence plant tolerance to a changing environment and crop productivity is considered to play an important role in the adaptation and evolution of plants.</small></small>
+
+------
+
+<span class="menu-title" style="display: none">Cancer molecular markers</span>
+
+### Epigenetics
+#### Plant resistance to extreme conditions
+
+<img src="img/lysenko.png" alt="drawing" width="1000"/>
+
+<small><small>"Environment-induced changes are the primary mechanism of heritability." -- Trofim Denisovich Lysenko (1898-1976)</small></small>
+
 ------
 
 <span class="menu-title" style="display: none">Neurodegenerative disorders</span>
@@ -270,9 +333,3 @@ $$
 ### Epigenetics
 #### Neurodegenerative disorders
 
-------
-
-<span class="menu-title" style="display: none">Abuse substance</span>
-
-### Epigenetics
-#### Molecuar basis of substance abuse
