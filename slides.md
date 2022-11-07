@@ -15,62 +15,19 @@
 
 <div style="text-align: left">
 
-## Table of contents
+### Table of contents
 
-<br>
-
-- **Sequencing technologies**
-- **Information storage**
-- **Applications of sequencing**
-
-</div>
-
-------
-
-<div style="text-align: left">
-
-## Table of contents
-
-<br>
-
-- **Sequencing technologies**
-    - NGS technologies: Illumina
-    - TGS technologies: Nanopore & PacBio
-- <span style="color:#B3B3B3">**Information storage**</span>
-- <span style="color:#B3B3B3">**Applications of sequencing**</span>
-
-</div>
-
-------
-
-<div style="text-align: left">
-
-## Table of contents
-
-<br>
-    
-- <span style="color:#B3B3B3">**Sequencing technologies**</span>
-- **Information storage**
-    - Phred quality score
-    - FASTQ format
-- <span style="color:#B3B3B3">**Applications of sequencing**</span>
-
-</div>
-
-------
-
-<div style="text-align: left">
-
-## Table of contents
-
-<br>
-    
-- <span style="color:#B3B3B3">**Sequencing technologies**</span>
-- <span style="color:#B3B3B3">**Information storage**</span>
-- **Applications of sequencing**
-    - Genome assembly
-    - Transcriptomics: gene expression analysis
-    - Epigenetics
+- <span class="fragment highlight-current-red" style="font-size:40px">**Sequencing technologies**</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">NGS technologies: Illumina</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">TGS technologies: Nanopore & PacBio</span>
+- <span class="fragment highlight-current-red" style="font-size:40px">**Information storage**</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">FASTQ datatype</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">Phred quality score</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">SAM/BAM datatype</span>
+- <span class="fragment highlight-current-red" style="font-size:40px">**Applications of sequencing**</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">Genome assembly</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">Transcriptomics: gene expression analysis</span>
+    - <span class="fragment highlight-current-red" style="font-size:30px">Epigenetics</span>
 
 </div>
 
