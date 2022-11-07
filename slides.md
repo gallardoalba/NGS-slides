@@ -429,7 +429,7 @@ Psichyatric disorders influenced/associated by epigenetic modifications:
 ------
 
 ### Epigenetics
-#### Neuroepigenetics: Study of intergenerational transmission of traumas
+#### Neuroepigenetics: study of intergenerational transmission of traumas
 
 <span style="font-size:24px">
 
