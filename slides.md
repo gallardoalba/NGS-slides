@@ -59,12 +59,6 @@
 </span>
 </div>
 
-Note:
-    
-This sequencing method is based on reversible dye-terminators that enable the identification of single nucleotides.
-  
-With this technology, thousands of places throughout the genome are sequenced at once via massive parallel sequencing.
-
 ------
 
 <span class="menu-title" style="display: none">TGS technology: Oxford Nanopore</span>
@@ -235,14 +229,27 @@ $$
 
 ### Transcriptomics: RNA-seq
 
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+
 <img src="img/transcription.jpg" alt="drawing" width="800"/>
 
 <small><small>Source: metrics-lab.github.io</small></small>
 
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+
+<img src="img/comparison_transcription.jpg" alt="drawing" width="800"/>
+
+<small><small>Source: nature.com</small></small>
+
+</span>
+</div>
+
 ------
 
 ### Transcriptomics: RNA-seq
-#### Expression genetics in cancer
+#### Gene expression analysis in cancer
 
 <img src="img/transcriptome_cancer.jpg" alt="drawing" width="1000"/>
 
