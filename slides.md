@@ -249,13 +249,6 @@ $$
 ------
 
 ### Transcriptomics: RNA-seq
-#### Gene expression analysis in cancer
-
-<img src="img/transcriptome_cancer.jpg" alt="drawing" width="1000"/>
-
-------
-
-### Transcriptomics: RNA-seq
 #### Differential expression analysis pipeline
 
 <div class="r-stack">
@@ -272,6 +265,13 @@ $$
 
 </span>
 </div>
+
+------
+
+### Transcriptomics: RNA-seq
+#### Cancer prognosis by gene expression analysis
+
+<img src="img/transcriptome_cancer.jpg" alt="drawing" width="1000"/>
 
 ------
 
