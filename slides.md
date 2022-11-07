@@ -46,7 +46,7 @@
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
 <img src="https://www.intechopen.com/media/chapter/49419/media/image2.png" alt="drawing" width="600"/>
-<small>The reads have a length between 50 and 300 bp. Low error rate, between 1% and 2.5%.</small>
+<small>Reads lengths between 50 and 300 bp. Low error rate, between 1% and 2.5%.</small>
 </span>
 <span class="fragment" data-fragment-index="0">
 
