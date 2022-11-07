@@ -364,7 +364,7 @@ Detection requires usually  a three-phase strategy:
 <span class="menu-title" style="display: none">Plant resistance to extreme conditions</span>
 
 ### Epigenetics
-#### Covalent modicitations: Plant resistance to extreme conditions
+#### Covalent modifications: Plant resistance to extreme conditions
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
