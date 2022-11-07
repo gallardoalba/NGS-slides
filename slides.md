@@ -415,7 +415,7 @@ Psichyatric disorders influenced/associated by epigenetic modifications:
 ------
 
 ### Epigenetics
-#### Neuroepigenetics: study of substance abuse disorders
+#### Neuroepigenetics: substance abuse disorders
 
 <img src="img/opioid_overdose.png" alt="drawing" width="500"/>
 
