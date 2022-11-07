@@ -241,8 +241,6 @@ $$
 
 <img src="img/comparison_transcription.jpg" alt="drawing" width="800"/>
 
-<small><small>Source: nature.com</small></small>
-
 </span>
 </div>
 
