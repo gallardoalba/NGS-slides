@@ -86,7 +86,7 @@
 ### TGS technologies: PacBio
 
 <img src="img/pacbio.png" alt="drawing" width="750"/>
-<small>Average polymerase read length from 20kb to 30 kb. Low error rate (99.9%).</small>
+<small>Average read length between 20 kb and 30 kb. Low error rate (99.9%).</small>
 
 ---
 
