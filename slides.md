@@ -336,7 +336,7 @@ Detection requires usually  a three-phase strategy:
 </span>
 <span class="fragment current-visible" data-fragment-index="0">
 <img src="img/bisulfite_sequencing.jpg" alt="drawing" width="800"/>
-<small><small>Bisulfite sequencing involves the deamination of unmodified cytosines to uracil.</small></small>
+<small>Bisulfite sequencing involves the deamination of unmodified cytosines to uracil.</small>
 </span>
 </span>
 <span class="fragment">
