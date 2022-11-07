@@ -43,9 +43,21 @@
 
 ### NGS technology: Illumina
 
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
 <img src="https://www.intechopen.com/media/chapter/49419/media/image2.png" alt="drawing" width="600"/>
-
 <p style="font-size:14px;">Source: https://www.intechopen.com/</p>    
+</span>
+<span class="fragment" data-fragment-index="0">
+
+#### Base calling
+
+<div class="r-stack">
+<img class="fragment fade-out" data-fragment-index="1" src="img/base_calling_01.png" alt="drawing" width="800"/>
+<img class="fragment current-visible" data-fragment-index="1" src="img/base_calling_02.png" alt="drawing" width="1000"/>
+</div>
+</span>
+</div>
 
 Note:
     
@@ -55,32 +67,23 @@ With this technology, thousands of places throughout the genome are sequenced at
 
 ------
 
-### NGS technology: Illumina
-#### Base calling
-
-<div class="r-stack">
-  <img class="fragment fade-out" data-fragment-index="0" src="img/base_calling_01.png" alt="drawing" width="800"/>
-  <img class="fragment current-visible" data-fragment-index="0" src="img/base_calling_02.png" alt="drawing" width="1000"/>
-</div>
-
-
-
-------
-
 <span class="menu-title" style="display: none">TGS technology: Oxford Nanopore</span>
 
 ### TGS technology: Oxford Nanopore
 
-<img src="https://www.ukaachen.de/fileadmin/files/institute/humangenetik/_processed_/b/1/csm_nanopore_sequenzierung_c643920a66.jpg" alt="drawing" width="900"/>
-
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+<img src="img/oxford_nanopore.jpg" alt="drawing" width="1000"/>
 <p style="font-size:14px;">Source: https://www.ukaachen.de</p>    
+</span>
+<span class="fragment" data-fragment-index="0">
 
-------
-
-### TGS technology: Oxford Nanopore
 #### Base calling
 
 <img src="img/nanopore_basecalling.jpg" alt="drawing" width="1000"/>
+
+</span>
+</div>
 
 ------
 
@@ -110,6 +113,9 @@ With this technology, thousands of places throughout the genome are sequenced at
 
 ### Information storage: Phred quality score
 
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+
 <pre><code data-trim data-noescape >
 @ERR4760040.1 MN00415:74:FREIBURG:1
 TATAGCTCGCAAATCGTATCAGCAGATGTAATCAGGTAATGAAGTAGTTCTAGTTCTAGTTCTA
@@ -130,17 +136,25 @@ $$
 <br><small>*p: error probability associated with any given basecall*</small><br>
 <small>*Q: quality score, encoded in ASCII characters*</small>
 
-------
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
 
-### Information storage: Phred quality score
+<img src="img/per_base_quality_02.png" alt="drawing"  width="700"/>
 
-<img src="img/per_base_quality.png" alt="drawing"  width="600"/>
+</span>
+<span class="fragment">
+
+<img src="img/per_base_quality.png" alt="drawing"  width="700"/>
+
+</span>
+</div>
 
 ------
 
 <span class="menu-title" style="display: none">Information storage: SAM/BAM datatype</span>
 
-### Information storage: SAM/BAM datatypes
+### Information storage
+#### SAM/BAM datatype
 
 <br>
 
@@ -157,20 +171,32 @@ $$
 <span class="menu-title" style="display: none">Genome assembly</span>
 
 ### Genome assembly
-    
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+<img src="img/dna_structure.jpg" alt="drawing" width="1000"/>
+<p style="font-size:14px;">Source: https://www.genome.gov</p>    
+</span>
+<span class="fragment" data-fragment-index="0">
 <img src="img/genome_assembly.png" alt="drawing" width="1000"/>
+</span>
+</div>
 
 ------
 
 ### Genome assembly
-#### VGP assembly workflow
-    
-<img src="img/VGP_workflow.png" alt="drawing" width="1000"/>
 
-------
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
 
-### Genome assembly
-#### VGP assembly workflow in Galaxy
+#### VGP *de novo* assembly workflow
+
+<img src="img/VGP_workflow.png" alt="drawing"/>
+
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+
+#### VGP *de novo* assembly workflow in Galaxy
 
 <div style="text-align:left; font-size:28px">
 
@@ -181,15 +207,53 @@ $$
 
 <img src="img/gastrophryne.png" alt="drawing" width="500"/>
 
+</span>
+</div>
+
+------
+
+### Genome assembly
+#### Within-species variation: resequencing
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+
+<img src="img/within_specie_variation.png" alt="drawing" width="1200"/>
+
+<small><small>The butterfly genus *Heliconius* contains some species that are extremely difficult to tell apart.</small></small>
+
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+
+<img src="img/resequencing.jpg" alt="drawing" width="700"/>
+
+<small><small>Source: nature.com</small></small>
+
+</span>
+</div>
+
 ------
 
 <span class="menu-title" style="display: none">Transcriptomics: expression analysis</span>
 
 ### Transcriptomics: RNA-seq
 
-<img src="img/transcription.jpg" alt="drawing" width="1000"/>
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
 
-differential_expression.png
+<img src="img/transcription.jpg" alt="drawing" width="800"/>
+
+<small><small>Source: metrics-lab.github.io</small></small>
+
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+
+#### Expression genetics in cancer
+
+<img src="img/transcriptome_cancer.jpg" alt="drawing" width="1000"/>
+
+</span>
+</div>
 
 ------
 
