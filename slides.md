@@ -417,7 +417,7 @@ Psichyatric disorders influenced/associated by epigenetic modifications:
 ### Epigenetics
 #### Neuroepigenetics: substance abuse disorders
 
-<img src="img/opioid_overdose.png" alt="drawing" width="500"/>
+<img src="img/opioid_overdose.png" alt="drawing" width="600"/>
 
 <small><small>Five genes over-burdened by epigenetic modifications: ASTN2, KCNMA1, DUSP4, GABBR2, ENOX1.</small></small>
 
