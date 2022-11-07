@@ -295,7 +295,7 @@ Epigenetics is the study of **stable and inheritable phenotypic changes** that d
 It involves multiple mechanisms:
     
 - Covalent modifications (e.g. DNA/RNA methylation)
-- Histone positioing
+- Histone positioning
 - Histone variants
 - Many more!
 
