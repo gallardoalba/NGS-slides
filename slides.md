@@ -212,7 +212,7 @@ $$
 
 <img src="img/within_specie_variation.png" alt="drawing" width="1200"/>
 
-<small><small>The butterfly genus *Heliconius* contains some species that are extremely difficult to tell apart.</small></small>
+<small>The butterfly genus *Heliconius* contains species that are extremely difficult to tell apart.</small>
 
 </span>
 <span class="fragment current-visible" data-fragment-index="0">
