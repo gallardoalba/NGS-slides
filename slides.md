@@ -46,7 +46,7 @@
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
 <img src="https://www.intechopen.com/media/chapter/49419/media/image2.png" alt="drawing" width="600"/>
-<p style="font-size:14px;">Source: https://www.intechopen.com/</p>    
+<small>The reads have a length between 50 and 300 bp. Low error rate, between 1% and 2.5%.</small>
 </span>
 <span class="fragment" data-fragment-index="0">
 
@@ -68,7 +68,7 @@
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
 <img src="img/oxford_nanopore.jpg" alt="drawing" width="1000"/>
-<p style="font-size:14px;">Source: https://www.ukaachen.de</p>    
+<small>More than two million DNA bases in one continuous sequence has been reported. <br>Hight error rate, between 7% and 14%.</small>
 </span>
 <span class="fragment" data-fragment-index="0">
 
@@ -85,7 +85,8 @@
 
 ### TGS technologies: PacBio
 
-<img src="img/pacbio.png" alt="drawing" width="800"/>
+<img src="img/pacbio.png" alt="drawing" width="750"/>
+<small>Average polymerase read length from 20kb to 30 kb. Low error rate (99.9%).</small>
 
 ---
 
