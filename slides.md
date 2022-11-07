@@ -433,7 +433,7 @@ Animal studies in rats have shown that:
 <br><br>
 
 - Persistent fear-related memory behaviour is dependent on *de novo* DNA methylation [1].
-    - DNA-methyltransferases (DMT) inhibitors as potential treatment against block the formation of traumatic memories.
+    - DNA-methyltransferases (DMT) inhibitors block the formation of traumatic memories.
 - Genetic imprint from traumatic experiences carries through at least two generations [2].
 
 </span>
