@@ -403,11 +403,10 @@ Detection requires usually  a three-phase strategy:
 Psichyatric disorders influenced/associated by epigenetic modifications:
 <br><br>
 
+- Schizophrenia
 - Rubinstein-Taybi syndrome
 - Huntington's disease
 - Fragile X syndrome
-- Schizophrenia
-- Substance abuse disorders
 
 </div>
 </span>
