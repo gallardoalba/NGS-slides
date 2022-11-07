@@ -342,7 +342,7 @@ Detection requires usually  a three-phase strategy:
 <span class="menu-title" style="display: none">Cancer molecular markers</span>
 
 ### Epigenetics
-#### Covalent modifications: Cancer molecular markers
+#### Identification of cancer molecular markers
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
@@ -364,7 +364,7 @@ Detection requires usually  a three-phase strategy:
 <span class="menu-title" style="display: none">Plant resistance to extreme conditions</span>
 
 ### Epigenetics
-#### Covalent modifications: Plant resistance to extreme conditions
+#### Evaluation of plant resistance to extreme conditions
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
@@ -388,5 +388,62 @@ Detection requires usually  a three-phase strategy:
 <span class="menu-title" style="display: none">Neurodegenerative disorders</span>
 
 ### Epigenetics
-#### Covalent modifications: Neurodegenerative disorders
+#### Neuroepigenetics: study of psyquiatric disorders
 
+<span style="font-size:28px">
+
+<div style="text-align: left">
+
+<br>
+Psichyatric disorders influenced/associated by epigenetic modifications:
+<br><br>
+
+- Rubinstein-Taybi syndrome
+- Huntington's disease
+- Fragile X syndrome
+- Schizophrenia
+- Substance abuse disorders
+
+</div>
+</span>
+
+------
+
+### Epigenetics
+#### Neuroepigenetics: study of substance abuse disorders
+
+<img src="img/opioid_overdose.png" alt="drawing" width="500"/>
+
+<small><small>Five genes over-burdened by epigenetic modifications: ASTN2, KCNMA1, DUSP4, GABBR2, ENOX1.</small></small>
+
+</span>
+</div>
+
+------
+
+### Epigenetics
+#### Neuroepigenetics: Study of intergenerational transmission of traumas
+
+<span style="font-size:24px">
+
+<div style="text-align: left">
+
+<br>
+Animal studies in rats have shown that:
+<br><br>
+
+- Persistent fear-related memory behaviour is dependent on *de novo* DNA methylation [1].
+    - DNA-methyltransferases (DMT) inhibitors as potential treatment against block the formation of traumatic memories.
+- Genetic imprint from traumatic experiences carries through at least two generations [2].
+
+</span>
+
+<small><br>
+[1] Bali P, Im HI, Kenny PJ. Methylation, memory and addiction. Epigenetics (2011). https://doi.org/10.4161/epi.6.6.15905<br><br>[2] Callaway, E. Fearful memories haunt mouse descendants. Nature (2013). https://doi.org/10.1038/nature.2013.14272
+</small>
+
+</div>
+
+---
+
+Thanks for you attention!
