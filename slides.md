@@ -185,18 +185,15 @@ $$
 ------
 
 ### Genome assembly
+#### VGP *de novo* assembly workflow
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
-
-#### VGP *de novo* assembly workflow
 
 <img src="img/VGP_workflow.png" alt="drawing"/>
 
 </span>
 <span class="fragment current-visible" data-fragment-index="0">
-
-#### VGP *de novo* assembly workflow in Galaxy
 
 <div style="text-align:left; font-size:28px">
 
@@ -205,7 +202,7 @@ $$
 
 </div>
 
-<img src="img/gastrophryne.png" alt="drawing" width="500"/>
+<img src="img/gastrophryne.png" alt="drawing" width="800"/>
 
 </span>
 </div>
@@ -238,40 +235,38 @@ $$
 
 ### Transcriptomics: RNA-seq
 
-<div class="r-stack">
-<span class="fragment fade-out" data-fragment-index="0">
-
 <img src="img/transcription.jpg" alt="drawing" width="800"/>
 
 <small><small>Source: metrics-lab.github.io</small></small>
 
-</span>
-<span class="fragment current-visible" data-fragment-index="0">
+------
 
+### Transcriptomics: RNA-seq
 #### Expression genetics in cancer
 
 <img src="img/transcriptome_cancer.jpg" alt="drawing" width="1000"/>
-
-</span>
-</div>
 
 ------
 
 ### Transcriptomics: RNA-seq
 #### Differential expression analysis pipeline
 
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+
 <img src="img/differential_expression.png" alt="drawing" width="500"/>
 
-------
-
-### Transcriptomics: RNA-seq
-#### Differential expression analysis
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
 
 <img src="img/DE_plots.png" alt="drawing" width="1000"/>
 
-------
+<small><small>Source: nature.com</small></small>
 
-<span class="menu-title" style="display: none">Epigenetics</span>
+</span>
+</div>
+
+------
 
 ### Epigenetics
 
@@ -279,62 +274,119 @@ $$
 
 ------
 
+<span class="menu-title" style="display: none">Epigenetics</span>
+    
+### Epigenetics
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+
+Epigenetics is the study of **stable and inheritable phenotypic changes** that do not involve alterations in the DNA sequence.
+
+<div style="text-align: left">
+<br>
+
+It involves multiple mechanisms:
+    
+- Covalent modifications (e.g. DNA/RNA methylation)
+- Histone positioing
+- Histone variants
+- Many more!
+
+</div>
+</span>
+<span class="fragment current-visible" data-fragment-index="0" style="font-size:40px">
+<div style="text-align: left">
+
+Detection requires usually  a three-phase strategy:
+
+<br>
+
+- Conversion of epigenetic into genetic information
+    - Usually by biochemical methods
+- High-throughput sequencing
+- Computational and statisticall analysis
+
+</div>
+
+</span>
+</div>
+
+------
+
 <span class="menu-title" style="display: none">DNA/RNA methylation</span>
 
 ### Epigenetics
-#### Heritable marks: DNA/RNA methylation
+#### Covalent modifications: DNA/RNA methylation
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
 
 <img src="img/methylation.jpg" alt="drawing" width="1000"/>
 
 <small>DNA/RNA methylation **regulates gene expression** by recruiting proteins involved in gene repression or by inhibiting the binding of transcription factor(s) to DNA.</small>
 
-------
-
-### Epigenetics
-#### Heritable marks: DNA/RNA methylation
-
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+<img src="img/bisulfite_sequencing.jpg" alt="drawing" width="800"/>
+<small><small>Bisulfite sequencing involves the deamination of unmodified cytosines to uracil.</small></small>
+</span>
+</span>
+<span class="fragment">
 <img src="img/paper_methylation.png" alt="drawing"/>
+</span>
+</div>
 
 ------
 
 <span class="menu-title" style="display: none">Cancer molecular markers</span>
 
 ### Epigenetics
-#### Cancer molecular markers
+#### Covalent modifications: Cancer molecular markers
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
 
 <img src="img/cancer_methylation.png" alt="drawing" width="700"/>
 
-------
-
-### Epigenetics
-#### Cancer molecular markers
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
 
 <img src="img/cancer_genes.png" alt="drawing" width="900"/>
+
+<small><small>Source: nature.com</small></small>
+
+</span>
+</div>
 
 ------
 
 <span class="menu-title" style="display: none">Plant resistance to extreme conditions</span>
 
 ### Epigenetics
-#### Plant resistance to extreme conditions
+#### Covalent modicitations: Plant resistance to extreme conditions
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
 
 <img src="img/plants_methylation.png" alt="drawing" width="700"/>
 
 <small><small>Plant stress memory and their capacity to influence plant tolerance to a changing environment and crop productivity is considered to play an important role in the adaptation and evolution of plants.</small></small>
-
-------
-
-### Epigenetics
-#### Plant resistance to extreme conditions
+    
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
 
 <img src="img/lysenko.png" alt="drawing" width="1000"/>
 
 <small><small>"Environment-induced changes are the primary mechanism of heritability." -- Trofim Denisovich Lysenko (1898-1976)</small></small>
+
+</span>
+</div>
 
 ------
 
 <span class="menu-title" style="display: none">Neurodegenerative disorders</span>
 
 ### Epigenetics
-#### Neurodegenerative disorders
+#### Covalent modifications: Neurodegenerative disorders
 
