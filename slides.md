@@ -384,7 +384,7 @@ Detection requires usually  a three-phase strategy:
 
 <img src="img/lysenko.png" alt="drawing" width="1000"/>
 
-<small><small>"Environment-induced changes are the primary mechanism of heritability." -- Trofim Denisovich Lysenko (1898-1976)</small></small>
+<small>"Hereditary changes can be induced by changing environmental conditions." <br><small>Trofim Denisovich Lysenko (1898-1976)</small></small>
 
 </span>
 </div>
